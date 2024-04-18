@@ -63,7 +63,7 @@ print(f"The area of the rectangle is: {area} cm^2")
 
 With a function:
 ```python
-
+rectangle_area()
 ```
 
 ### Part (b) Use your function by calling it
